@@ -35,6 +35,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ricardoLima01/ricardoLima01/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/ricardoLima01
 
 ###
