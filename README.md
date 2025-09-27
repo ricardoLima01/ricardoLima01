@@ -35,6 +35,6 @@
 
 ###
 
-![Snake animation](https://github.com/ricardoLima01
+![Snake animation](https://github.com/ricardoLima01/ricardoLima01/blob/output/github-contribution-grid-snake.svg)
 
 ###
