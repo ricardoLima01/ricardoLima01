@@ -70,11 +70,6 @@ Me chamo Ricardo Lima, tenho 21 anos e sou natural de São Paulo. Atualmente, es
   <a href ="https://www.instagram.com/_ricardoo_lima_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
