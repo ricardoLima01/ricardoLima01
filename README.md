@@ -68,6 +68,8 @@ Me chamo Ricardo Lima, tenho 21 anos e sou natural de São Paulo. Atualmente, es
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br/>
+
 ### Estatísticas
 
 <p>
