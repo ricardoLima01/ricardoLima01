@@ -70,20 +70,23 @@ Me chamo Ricardo Lima, tenho 21 anos e sou natural de São Paulo. Atualmente, es
   <a href ="https://www.instagram.com/_ricardoo_lima_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<br/>
+<br/>
+
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ricardoLima01&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ricardoLima01&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoLima01&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=4" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoLima01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 
 </p>
