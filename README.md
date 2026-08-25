@@ -61,6 +61,15 @@ Me chamo Ricardo Lima, tenho 21 anos e sou natural de São Paulo. Atualmente, es
 
 <img 
     align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
