@@ -43,6 +43,15 @@ Me chamo Ricardo Lima, tenho 21 anos e sou natural de São Paulo. Atualmente, es
 
 <img 
     align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+          
+<img 
+    align="left" 
     alt="Go" 
     title="Go"
     width="30px" 
