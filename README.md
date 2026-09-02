@@ -43,8 +43,17 @@ Me chamo Ricardo Lima, tenho 21 anos e sou natural de São Paulo. Atualmente, es
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/React/React-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="NodeJs" 
+    title="NodeJs"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
